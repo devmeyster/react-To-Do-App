@@ -1,7 +1,7 @@
 ReactStarter
 ====
 
-Use this as a starting point for working on chapters of the [Learn and Understand React JS](https://www.udemy.com/learn-and-understand-reactjs/) course on Udemy.com.
+This is a simple to-do list app I built by completing [Learn and Understand React JS](https://www.udemy.com/learn-and-understand-reactjs/) course on Udemy.com.
 
 ---
 
@@ -13,8 +13,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install depdencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:StephenGrider/ReactStarter.git
-	> cd ReactStarter
+	> git clone https://github.com/devmeyster/react-To-Do-App.git
+	> cd React-To-Do-App
 	> npm install
 	> gulp
 ```
